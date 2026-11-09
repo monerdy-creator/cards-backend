@@ -5,7 +5,7 @@ info:
 
 http:
   method: GET
-  url: localhost:5000/api/ping
+  url: http://localhost:5000/api/ping
   auth: inherit
 
 runtime:
